@@ -1,0 +1,28 @@
+img {
+    width: 15%!important;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+ul li a {
+    padding: 0px 23px;
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+}
+.main-img{
+    width: 100%!important;
+}
+thead td {
+    width: 50%;
+}
+.col-img img {
+    width: 100%!important;
+}
+ul.social li a {
+    padding: 0px 6px;
+}
